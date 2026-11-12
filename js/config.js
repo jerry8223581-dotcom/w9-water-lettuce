@@ -6,5 +6,5 @@ export const CONFIG = {
     {id:'growth',number:'3',title:'大萍的生長方式',position:'-0.20m 0.12m 0.15m',normal:'0 1 0',text:'大萍是「漂浮性水生植物」。整株漂浮在水面，可以隨著水流移動，不像浮葉性植物把根固定在水底。'}
   ],
   ar:{targetsConfigured:false,targetsPath:'./assets/targets.mind',targetIndex:0,scale:'0.8 0.8 0.8',position:'0 0 0',rotation:'90 0 0'},
-  appsScriptEndpoint:'', publicSiteUrl:'https://jerry8223581-dotcom.github.io/w9-water-lettuce/', submissionTimeoutMs:20000
+  appsScriptEndpoint: 'https://script.google.com/macros/s/AKfycbwRNEwkZe3lOyklLYgLWQ7V4hwON4g7sUMCEVq18fAubN1EALpuUYY7SWV3dfdfUL4/exec',
 };
